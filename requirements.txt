@@ -1,0 +1,4 @@
+Need a good machine with more than 8GBs of Ram.
+Jupyter Notebook or Jupyter Lab(any other similar notebook will do)
+You can also use VS Code
+Install Flask Library
