@@ -1,5 +1,5 @@
 # UnivariateBivariate-Analysis-on-Flask
-Created a Dashboard using Flask to show your univariate and Bivariate Analysis
+Created a Dashboard using Flask to show a univariate and Bivariate Analysis
 
 ## Airbnb Dataset Analysis
 
